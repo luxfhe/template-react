@@ -2,7 +2,7 @@
 
 import { useCallback, useMemo } from "react";
 import { FhevmInstance } from "../fhevmTypes.js";
-import { RelayerEncryptedInput } from "@zama-fhe/relayer-sdk/web";
+import { RelayerEncryptedInput } from "@luxfhe-fhe/relayer-sdk/web";
 import { ethers } from "ethers";
 
 export type EncryptResult = {

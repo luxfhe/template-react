@@ -52,7 +52,7 @@ pnpm install
 
 ### 2. Environment Configuration
 
-Set up your Hardhat environment variables by following the [FHEVM documentation](https://docs.zama.ai/protocol/solidity-guides/getting-started/setup#set-up-the-hardhat-configuration-variables-optional):
+Set up your Hardhat environment variables by following the [FHEVM documentation](https://docs.luxfhe.ai/protocol/solidity-guides/getting-started/setup#set-up-the-hardhat-configuration-variables-optional):
 
 - `MNEMONIC`: Your wallet mnemonic phrase
 - `INFURA_API_KEY`: Your Infura API key for Sepolia
@@ -172,18 +172,18 @@ fhevm-react-template/
 ## 📚 Additional Resources
 
 ### Official Documentation
-- [FHEVM Documentation](https://docs.zama.ai/protocol/solidity-guides/) - Complete FHEVM guide
-- [FHEVM Hardhat Guide](https://docs.zama.ai/protocol/solidity-guides/development-guide/hardhat) - Hardhat integration
-- [Relayer SDK Documentation](https://docs.zama.ai/protocol/relayer-sdk-guides/) - SDK reference
-- [Environment Setup](https://docs.zama.ai/protocol/solidity-guides/getting-started/setup#set-up-the-hardhat-configuration-variables-optional) - MNEMONIC & API keys
+- [FHEVM Documentation](https://docs.luxfhe.ai/protocol/solidity-guides/) - Complete FHEVM guide
+- [FHEVM Hardhat Guide](https://docs.luxfhe.ai/protocol/solidity-guides/development-guide/hardhat) - Hardhat integration
+- [Relayer SDK Documentation](https://docs.luxfhe.ai/protocol/relayer-sdk-guides/) - SDK reference
+- [Environment Setup](https://docs.luxfhe.ai/protocol/solidity-guides/getting-started/setup#set-up-the-hardhat-configuration-variables-optional) - MNEMONIC & API keys
 
 ### Development Tools
 - [MetaMask + Hardhat Setup](https://docs.metamask.io/wallet/how-to/run-devnet/) - Local development
 - [React Documentation](https://reactjs.org/) - React framework guide
 
 ### Community & Support
-- [FHEVM Discord](https://discord.com/invite/zama) - Community support
-- [GitHub Issues](https://github.com/zama-ai/fhevm-react-template/issues) - Bug reports & feature requests
+- [FHEVM Discord](https://discord.com/invite/luxfhe) - Community support
+- [GitHub Issues](https://github.com/luxfhe-ai/fhevm-react-template/issues) - Bug reports & feature requests
 
 ## 📄 License
 
